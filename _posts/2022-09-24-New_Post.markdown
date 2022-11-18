@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "New post!!!"
+title: "incomplete spaceship game"
 ---
 
-# Video games 
+this is a space game I made over a week or two. the hardest part of this project was gravity. the biggest success was completing gravity, however in the end I decided that gravity made the game less fun. it didn't take too long and it was fun using some asset packs.
 
-I've had development experience in video games.
+as of right now I have some paid assests on this git repo so I can't make it public. 
 
-certain projects like this_link
-- in which you play as a rocket ship
 
